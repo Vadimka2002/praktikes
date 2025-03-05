@@ -1,0 +1,7 @@
+D:\cryptograf\lab1\lab1\bin\Debug\lab1.exe.config
+D:\cryptograf\lab1\lab1\bin\Debug\lab1.exe
+D:\cryptograf\lab1\lab1\bin\Debug\lab1.pdb
+D:\cryptograf\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\cryptograf\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\cryptograf\lab1\lab1\obj\Debug\lab1.exe
+D:\cryptograf\lab1\lab1\obj\Debug\lab1.pdb
