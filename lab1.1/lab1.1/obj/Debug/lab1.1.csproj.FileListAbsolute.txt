@@ -1,0 +1,10 @@
+D:\БДБ\lab1.1\lab1.1\bin\Debug\lab1.1.exe.config
+D:\БДБ\lab1.1\lab1.1\bin\Debug\lab1.1.exe
+D:\БДБ\lab1.1\lab1.1\bin\Debug\lab1.1.pdb
+D:\БДБ\lab1.1\lab1.1\obj\Debug\lab1.1.csproj.AssemblyReference.cache
+D:\БДБ\lab1.1\lab1.1\obj\Debug\lab1.1.csproj.CoreCompileInputs.cache
+D:\БДБ\lab1.1\lab1.1\obj\Debug\lab1.1.exe
+D:\БДБ\lab1.1\lab1.1\obj\Debug\lab1.1.pdb
+D:\БДБ\lab1.1\lab1.1\bin\Debug\MySql.Data.dll
+D:\БДБ\lab1.1\lab1.1\bin\Debug\System.Buffers.dll
+D:\БДБ\lab1.1\lab1.1\obj\Debug\lab1.1.csproj.Up2Date
